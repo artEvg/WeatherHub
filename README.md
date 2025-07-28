@@ -14,6 +14,7 @@
 
 
 📦 Установка и запуск
+######
 git clone https://github.com/artEvg/WeatherHub.git
 ######
 cd weather_app
