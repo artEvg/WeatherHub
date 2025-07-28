@@ -14,8 +14,8 @@
 
 
 📦 Установка и запуск
-bash
-git clone https://github.com/artEvf/WeatherHub.git
+git clone https://github.com/artEvg/WeatherHub.git
+######
 cd weather_app
 ### Просто откройте файл index.html в любом браузере
 💼 Структура проекта
